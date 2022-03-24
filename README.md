@@ -4,8 +4,12 @@ I really enjoy doing AI related projects. I currently work as a business analysi
 
 ✿ You can check out my [LinkedIn](https://www.linkedin.com/in/ozturkgizem/) if you want. Also please feel free to contact me. Nice to meet you! ✿
 
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozturkgizem&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=issues,prs" />
+  
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozturkgizem&layout=compact" />
