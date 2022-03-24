@@ -10,3 +10,5 @@ You can check out my [LinkedIn](https://www.linkedin.com/in/ozturkgizem/) if you
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozturkgizem&layout=compact" />
 </a>
+
+(https://github.com/ozturkgizem)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ozturkgizem/)  
