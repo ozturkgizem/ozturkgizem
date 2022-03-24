@@ -7,8 +7,7 @@ I really enjoy doing AI related projects. I currently work as a business analysi
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozturkgizem&show_icons=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=issues,prs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozturkgizem&hide=issues,prs" />
   
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
