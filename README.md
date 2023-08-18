@@ -2,7 +2,7 @@
 
 I really enjoy doing AI related projects. I currently work as a business analysist @ TFKB's foreign trade unit. I see life as a learning path and feel like a explorer. So there is a lot to learn and there is lots of path to walk too.
 
-✿ You can check out my [LinkedIn](https://www.linkedin.com/in/ozturkgizem/) if you want. Also please feel free to contact me. Nice to meet you! ✿
+✿ You can check out my [LinkedIn](https://www.linkedin.com/in/ozturkgizem/). Also please feel free to contact me. Nice to meet you! ✿
 
 
 
